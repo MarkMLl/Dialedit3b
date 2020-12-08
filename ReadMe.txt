@@ -1,3 +1,19 @@
+This added at the time of upload to clarify the license situation. MarkMLl.
+
+-----8<-----
+I have decided to release DialEdit under the GNU General Public License. Go to http://home.comcast.net/~JamesMClark5/Pascal/index.htm again, and you will see that DialEdit3a.zip has been replaced by DialEdit3b.zip, which includes the source code and the user manual in a form meant to be viewed in the IDE (using the LineDraw font to show example dialog features).
+
+The original BP7.0 program has been adapted to Visual Pascal, so hopefully that will make the port to FreePascal easier.
+
+There remains a copyright notice in the CopyNote string, but this is preempted by the GPL notice in the comments. The CopyNote string, which is displayed by the EXE to show the program version, can be replaced by a last-edit date, perhaps including a GPL notice.
+
+The "To-Do" and "Notes" comment sections near the beginning of the source code may give you ideas for further improvements. I have a habit of putting {+} tags on source code lines to mark recently added or modified lines.  The idea is that when new behavioral faults are observed, these lines are suspected first as possible culprits.  Often, one conceptual change requires scattered code changes. You may also publish any of this reply on the forum.
+
+- Jim"
+
+https://forum.lazarus.freepascal.org/index.php?topic=18998.0
+----->8-----
+
 DialEdit3a.zip - A visual dialog editor for TurboVision (TM) dialogs
 
 Copyright James M. Clark 2004	v1.3a   7-15-04
